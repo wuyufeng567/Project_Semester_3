@@ -7,8 +7,8 @@ GPIO.setmode(GPIO.BCM)
 moisture_pin = 17
 GPIO.setup(moisture_pin, GPIO.IN)
 
-sender = "your_email@gmail.com"
-password = "your_app_password"
+sender = "3160189098@qq.com"
+password = "Deadcell567"
 receiver = "3160189098@qq.com"
 
 def read_moisture():
